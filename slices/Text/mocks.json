@@ -3,34 +3,39 @@
     "__TYPE__": "SharedSliceContent",
     "variation": "default",
     "primary": {
-      "text_bis": {
+      "text_bibi": {
         "__TYPE__": "StructuredTextContent",
         "value": [
           {
             "type": "paragraph",
             "content": {
-              "text": "Minim cupidatat voluptate Lorem occaecat dolor dolor quis."
+              "text": "Ea aute culpa nulla ex consectetur ex duis proident. Ea ex enim minim. Nulla enim ad amet voluptate est dolor aliquip amet ullamco est incididunt quis."
             }
           },
           {
             "type": "paragraph",
             "content": {
-              "text": "Dolore aliquip adipisicing magna velit ut tempor ex."
+              "text": "Duis incididunt anim occaecat nulla sunt anim enim nostrud aute sunt deserunt. Dolore fugiat sint dolor."
             }
           },
           {
             "type": "paragraph",
             "content": {
-              "text": "Lorem occaecat ex aliquip veniam occaecat nostrud."
+              "text": "Quis adipisicing qui pariatur irure sunt ad ad. Qui laborum quis sit sunt veniam laborum nisi enim non. Ipsum dolor Lorem velit consectetur minim excepteur enim do veniam ad esse voluptate."
             }
           },
           {
             "type": "paragraph",
             "content": {
-              "text": "Et id magna fugiat deserunt qui velit labore esse. Lorem adipisicing ut est ullamco incididunt nisi mollit velit deserunt."
+              "text": "Deserunt elit in dolore aliquip aliquip enim ullamco consequat nostrud."
             }
           }
         ]
+      },
+      "nice_date": {
+        "__TYPE__": "FieldContent",
+        "type": "Date",
+        "value": "2019-06-16"
       }
     },
     "items": [

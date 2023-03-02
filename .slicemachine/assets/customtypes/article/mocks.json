@@ -1,38 +1,48 @@
 {
   "uid": {
     "__TYPE__": "UIDContent",
-    "value": "newspaper"
+    "value": "running"
   },
   "title": {
     "__TYPE__": "FieldContent",
-    "value": "its",
+    "value": "teach",
     "type": "Text"
   },
   "author": {
     "__TYPE__": "FieldContent",
-    "value": "loose",
+    "value": "powder",
     "type": "Text"
+  },
+  "update_date": {
+    "__TYPE__": "FieldContent",
+    "type": "Date",
+    "value": "2013-07-10"
   },
   "slices": {
     "__TYPE__": "SliceContentType",
     "value": [
       {
-        "key": "text$bc4d9694-5863-42dc-8e3d-fbd6ae6628c9",
+        "key": "text$600afb63-4a73-48d1-be72-54614f509705",
         "name": "text",
         "widget": {
           "__TYPE__": "SharedSliceContent",
           "variation": "default",
           "primary": {
-            "text": {
+            "text_bibi": {
               "__TYPE__": "StructuredTextContent",
               "value": [
                 {
                   "type": "paragraph",
                   "content": {
-                    "text": "Fugiat labore est esse dolor. Veniam amet eu velit elit incididunt aliqua fugiat mollit nulla nulla aliquip. Laborum velit consectetur quis nulla ea irure laborum nisi commodo deserunt."
+                    "text": "Esse ea velit mollit ea aliquip cillum officia."
                   }
                 }
               ]
+            },
+            "nice_date": {
+              "__TYPE__": "FieldContent",
+              "type": "Date",
+              "value": "2015-08-05"
             }
           },
           "items": [
@@ -44,7 +54,7 @@
         }
       },
       {
-        "key": "image$3175d280-2150-4e88-b2b3-8de2b4341a9d",
+        "key": "image$662e3920-c425-4765-81cd-54be4991df06",
         "name": "image",
         "widget": {
           "__TYPE__": "SharedSliceContent",
@@ -54,11 +64,11 @@
               "__TYPE__": "ImageContent",
               "origin": {
                 "id": "main",
-                "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+                "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
                 "width": 6000,
                 "height": 4000
               },
-              "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+              "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
               "width": 6000,
               "height": 4000,
               "edit": {
@@ -81,7 +91,7 @@
         }
       },
       {
-        "key": "quote$55140c53-9bc9-4ab4-bdfb-0b55c32ef968",
+        "key": "quote$42949123-6ee2-4115-8753-24ae6bdefb1a",
         "name": "quote",
         "widget": {
           "__TYPE__": "SharedSliceContent",
@@ -93,14 +103,14 @@
                 {
                   "type": "heading3",
                   "content": {
-                    "text": "Learn"
+                    "text": "While"
                   }
                 }
               ]
             },
             "source": {
               "__TYPE__": "FieldContent",
-              "value": "measure",
+              "value": "noted",
               "type": "Text"
             }
           },

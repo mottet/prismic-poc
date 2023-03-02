@@ -26,6 +26,13 @@
           "placeholder": ""
         }
       },
+      "update_date": {
+        "type": "Date",
+        "config": {
+          "label": "Update date",
+          "placeholder": ""
+        }
+      },
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",

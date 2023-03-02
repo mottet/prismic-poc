@@ -31,6 +31,17 @@ interface ArticleDocumentData {
      */
     author: prismicT.KeyTextField;
     /**
+     * Update date field in *Article*
+     *
+     * - **Field Type**: Date
+     * - **Placeholder**: *None*
+     * - **API ID Path**: article.update_date
+     * - **Tab**: Main
+     * - **Documentation**: https://prismic.io/docs/core-concepts/date
+     *
+     */
+    update_date: prismicT.DateField;
+    /**
      * Slice Zone field in *Article*
      *
      * - **Field Type**: Slice Zone
@@ -495,11 +506,21 @@ interface TextSliceDefaultPrimary {
      *
      * - **Field Type**: Rich Text
      * - **Placeholder**: *None*
-     * - **API ID Path**: text.primary.text_bis
+     * - **API ID Path**: text.primary.text_bibi
      * - **Documentation**: https://prismic.io/docs/core-concepts/rich-text-title
      *
      */
-    text_bis: prismicT.RichTextField;
+    text_bibi: prismicT.RichTextField;
+    /**
+     * nice date field in *Text → Primary*
+     *
+     * - **Field Type**: Date
+     * - **Placeholder**: *None*
+     * - **API ID Path**: text.primary.nice_date
+     * - **Documentation**: https://prismic.io/docs/core-concepts/date
+     *
+     */
+    nice_date: prismicT.DateField;
 }
 /**
  * Default variation for Text Slice
